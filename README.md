@@ -31,3 +31,7 @@
 [![Heroku,](https://img.icons8.com/color/30/null/heroku.png)]()
 [![Visual Studio Code,](https://img.icons8.com/color/30/null/visual-studio-code-2019.png)]()
 
+
+**My Stats:**
+[![achrekarom12's GitHub | Stats](https://stats.quine.sh/achrekarom12/github?theme=light)](https://quine.sh)
+
