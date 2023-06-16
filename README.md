@@ -1,8 +1,6 @@
 <h2 title="Om Achrekar"> Hey there, I'm Om! 👋</h2>
 
 
-
-
 <br />
 
 **About Me!**
@@ -15,9 +13,9 @@
 - 📫 Email me at [achrekarom@gmail.com](mailto:achrekarom@gmail.com)
 - <img align="left" alt="Om's LinkedIn" width="24px" src="https://img.icons8.com/color/96/null/linkedin--v1.png" /> My LinkedIn: [Om Achrekar](https://www.linkedin.com/in/om-achrekar-9603b421a/)
 
-**Languages and Tools:**
+<!-- **Languages and Tools:** -->
 
-[![Linkedin,](https://img.icons8.com/color/30/null/python--v1.png)]()
+<!-- [![Linkedin,](https://img.icons8.com/color/30/null/python--v1.png)]()
 [![JavaScript,](https://img.icons8.com/color/30/null/javascript--v1.png)]()
 [![Java,](https://img.icons8.com/color/30/null/java-coffee-cup-logo--v1.png)]()
 [![React Native,](https://img.icons8.com/color/30/null/react-native.png)]()
@@ -29,9 +27,14 @@
 [![Trello,](https://img.icons8.com/color/30/null/trello.png)]()
 [![Git,](https://img.icons8.com/color/30/null/git.png)]()
 [![Heroku,](https://img.icons8.com/color/30/null/heroku.png)]()
-[![Visual Studio Code,](https://img.icons8.com/color/30/null/visual-studio-code-2019.png)]()
+[![Visual Studio Code,](https://img.icons8.com/color/30/null/visual-studio-code-2019.png)]() -->
 
 
-**My Stats:**
-[![achrekarom12's GitHub | Stats](https://stats.quine.sh/achrekarom12/github?theme=light)](https://quine.sh)
+<div align="center">
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achrekarom12&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achrekarom12&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=achrekarom12&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=achrekarom12&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=achrekarom12&theme=github_dark" />
+</div>
 
