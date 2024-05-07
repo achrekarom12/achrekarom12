@@ -7,8 +7,8 @@
 
 - 👨🏽‍💻 I’m currently a CS Undergrad student
 - 🌱 I’m currently exploring Machine Learning and Deep Learning.
-- 🤔 I’m looking for an internship.
-- 💬 Ask me about anything, I would love to answer!
+- 🧑🏻‍💻 I'm currently working as an AI Research Intern at startup.
+- 💬 Ask me about AI, I would love to answer!
 - 🎯 Portfolio: [Om's Portfolio](https://achrekarom12.github.io/portfolio/)
 - 📫 Email me at [achrekarom@gmail.com](mailto:achrekarom@gmail.com)
 - <img align="left" alt="Om's LinkedIn" width="24px" src="https://img.icons8.com/color/96/null/linkedin--v1.png" /> My LinkedIn: [Om Achrekar](https://www.linkedin.com/in/om-achrekar-9603b421a/)
