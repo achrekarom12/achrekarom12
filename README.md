@@ -1,14 +1,13 @@
 <h1 title="Om Achrekar"> Hey there, I'm Om! 👋</h2>
 
 ## 💫 About Me:
-- 🧑🏻‍💻 I'm working as an AI Research Intern at startup.
+- 🧑🏻‍💻 I'm working as a SDE-I at startup.
 - 💬 Ask me about AI, I would love to answer!
 - 👨🏽‍💻 My expertise lies in Gen AI, NLP, Deep Learning, LLMs, RAGs.
 
 
 ## 🌐 Contact Me:
 - <img align="left" alt="Om's LinkedIn" width="24px" src="https://img.icons8.com/color/96/null/linkedin--v1.png" /> My LinkedIn: [Om Achrekar](https://www.linkedin.com/in/om-achrekar-9603b421a/)
-- 🎯 Portfolio: [Om's Portfolio](https://achrekarom12.github.io/portfolio/)
 - 📫 Email me at [achrekarom@gmail.com](mailto:achrekarom@gmail.com)
 
 ## 💻 Tech Stack:
