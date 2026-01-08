@@ -1,7 +1,7 @@
 <h1 title="Om Achrekar"> Hey there, I'm Om! 👋</h2>
 
 ## 💫 About Me:
-- 🧑🏻‍💻 I'm working as a SDE-I at startup.
+- 🧑🏻‍💻 I'm working as a SDE-I at ScogoAI.
 - 💬 Ask me about AI, Backend and Agents, I would love to answer!
 - 👨🏽‍💻 My expertise lies in Backend APIs, Gen AI, NLP, Deep Learning, LLMs, RAGs.
 
