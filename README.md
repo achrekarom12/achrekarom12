@@ -55,11 +55,6 @@
 
 ---
 
-## ✍️ Latest Thoughts
-👉 [blogs.itsom.dev](https://blogs.itsom.dev)
-
----
-
 ## 💡 Philosophy
 > Build things that scale.  
 > Simplify what’s complex.  
