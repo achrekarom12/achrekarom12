@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Om 👋</h1>
 <p align="center">
-  <b>SDE-I @ ScogoAI</b> • Backend • AI • LLMs • Systems
+  <b>SDE-I @ ScogoAI</b> • Backend • AI • LLMs • Agentic Systems
 </p>
 
 <p align="center">
