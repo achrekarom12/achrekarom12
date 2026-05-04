@@ -23,16 +23,16 @@
 ## 🧠 What I Work With
 
 ### Backend & Systems
-`Node.js` `Express` `FastAPI` `Flask` `REST APIs` `Microservices`
+`Node.js` `Nest.js` `Fastify` `Express` `FastAPI` `Flask` `REST APIs` `Microservices`
 
 ### AI / ML
-`LLMs` `RAG` `NLP` `Deep Learning` `PyTorch` `TensorFlow` `scikit-learn`
+`LLMs` `RAG` `Graph RAG` `NLP` `Deep Learning` `PyTorch` `TensorFlow` `scikit-learn`
 
 ### Cloud & DevOps
 `AWS` `GCP` `Docker` `Kubernetes` `Vercel` `Netlify`
 
 ### Databases
-`PostgreSQL` `MongoDB` `MySQL` `Supabase`
+`PostgreSQL` `MongoDB` `MySQL` `Supabase` `Redis` `Elasticsearch` `Opensearch`
 
 ---
 
