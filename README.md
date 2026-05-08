@@ -53,11 +53,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achrekarom12&theme=github_dark" height="180em"/>
 </p>
 
----
-
-## 💡 Philosophy
-> Build things that scale.  
-> Simplify what’s complex.  
-> Ship fast, iterate faster.
-
----
