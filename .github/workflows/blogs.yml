@@ -1,0 +1,21 @@
+name: Update README with Blogs
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Pull latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://blogs.itsom.dev/rss.xml"
+          max_post_count: 5
+          commit_message: "Updated latest blog posts"

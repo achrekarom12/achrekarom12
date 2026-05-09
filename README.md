@@ -43,6 +43,13 @@
 
 ---
 
+## ✍️ Latest Blogs
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achrekarom12&theme=github_dark" />
