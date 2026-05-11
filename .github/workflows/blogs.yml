@@ -18,4 +18,4 @@ jobs:
         with:
           feed_list: "https://blogs.itsom.dev/rss.xml"
           max_post_count: 5
-          commit_message: "Updated latest blog posts"
+          user_agent: "Mozilla/5.0 (compatible; GitHubActionsBot/1.0)"
