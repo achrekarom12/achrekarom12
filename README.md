@@ -13,10 +13,10 @@
 ---
 
 ## 🚀 About Me
-- Building scalable **backend systems** and **AI-powered products**
+- Building scalable **Backend Systems** and **AI-powered products**
 - Focused on **LLMs, RAG pipelines, and intelligent agents**
-- Interested in **system design + applied AI**
-- Always up for discussions on **AI, infra, and product engineering**
+- Interested in **System Design + Applied AI**
+- Always up for discussions on **AI, Infra, and Product Engineering**
 
 ---
 
