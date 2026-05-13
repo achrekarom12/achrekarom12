@@ -1,26 +1,32 @@
-# name: Update README with Blogs
+name: Update README with Blogs
 
-# on:
-#   schedule:
-#     - cron: "0 */6 * * *"
-#   workflow_dispatch:
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
-# permissions:
-#   contents: write
+permissions:
+  contents: write
 
-# jobs:
-#   update-readme:
-#     runs-on: ubuntu-latest
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
 
-#     steps:
-#       - name: Checkout repo
-#         uses: actions/checkout@v4
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-#       - name: Pull latest blog posts
-#         uses: gautamkrishnar/blog-post-workflow@v1
-#         with:
-#           feed_list: "https://blogs.itsom.dev/rss.xml"
-#           max_post_count: 5
-#           readme_path: "./README.md"
-#           comment_tag_name: "BLOG-POST-LIST"
-#           user_agent: "Mozilla/5.0 (compatible; GitHubActionsBot/1.0)"
+      - name: Debug RSS Headers
+        run: curl -I https://blogs.itsom.dev/rss.xml
+
+      - name: Debug RSS Content
+        run: curl https://blogs.itsom.dev/rss.xml
+
+      - name: Pull latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blogs.itsom.dev/rss.xml"
+          max_post_count: 5
+          readme_path: "./README.md"
+          comment_tag_name: "BLOG-POST-LIST"
+          user_agent: "Mozilla/5.0 (compatible; GitHubActionsBot/1.0)"
