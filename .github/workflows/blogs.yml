@@ -16,12 +16,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Debug RSS Headers
-        run: curl -I https://blogs.itsom.dev/rss.xml
-
-      - name: Debug RSS Content
-        run: curl https://blogs.itsom.dev/rss.xml
-
       - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
